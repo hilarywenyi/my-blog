@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Wenyi's Reading Corner`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Wenyi Zheng`,
+      summary: `who lives and works in New York City, loves reading and finding time to write.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A reading list sharing the best books I read in various categories.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `wenyi_zheng`,
     },
   },
   plugins: [

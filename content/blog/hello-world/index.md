@@ -1,7 +1,6 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Fiction Books
+description: "These are the best fiction books I read."
 ---
 
 This is my first post on my new fake blog! How exciting!
